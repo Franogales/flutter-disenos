@@ -15,4 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 # flutter-disenos
+
+Esta aplicacion es para practicar animaciones y disenos en flutter.
+Espero en un futuro agregar imagenes, gif y ejemplos de codigos para crear las animaciones.
+Tambien espero me sirva para consultar APIs
 # flutter-disenos
